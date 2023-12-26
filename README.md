@@ -1,7 +1,7 @@
 # Stock-ai
 Stock AI Prediction Tool
 
-Simple Stock Prediction tool 
+Simple Stock Prediction tool for Machine Learning
 Resources:
 1) https://www.simplilearn.com/tutorials/machine-learning-tutorial/stock-price-prediction-using-machine-learning
 2) https://www.youtube.com/watch?v=PuZY9q-aKLw
